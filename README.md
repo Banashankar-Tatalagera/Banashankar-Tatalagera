@@ -5,7 +5,8 @@
 📚 Currently pursuing **MODEL CONTEXT PROTOCOL Certification Program** @ Hugging Face  
 🗣️ Focused on low-resource ASR, NLP, full-stack builds, and utility tools  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Banashankar-Tatalagera&label=Profile%20Views&color=blueviolet&style=flat)
+![profile views](https://profile-counter.glitch.me/Banashankar-Tatalagera/count.svg)
+
 
 ---
 
